@@ -6,6 +6,11 @@
 	box-sizing: border-box;
 	position: absolute;
 	right: 0;
+	bottom: auto;
+	background-color: white;
+	top: 60px;
+	border-radius: 6px;
+	border: 1px solid var(--hospital-green);
 }
 .title-container {
 	display: flex;
